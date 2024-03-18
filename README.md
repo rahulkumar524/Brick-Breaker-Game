@@ -1,4 +1,4 @@
-Brick Breaker Game
+**Brick Breaker Game**
 
 Brick Breaker Game is a Java implementation of the classic arcade game. Players control a paddle to bounce a ball and demolish bricks arranged in various patterns. The game features modern graphics, interactive gameplay, scoring, power-ups, and multiple levels of increasing difficulty.
 
